@@ -1,4 +1,4 @@
-import { assertEquals } from "./deps.ts"
+import { assertEquals } from "./deps.ts";
 import { add } from "./main.ts";
 
 Deno.test(function addTest() {
